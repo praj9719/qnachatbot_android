@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ircbot</string>
+
+    <string name="bot_vishwakosh">Vishwakosh</string>
+    <string name="bot_ssc_science">SSC Science</string>
+    <string name="bot_ssc_history">SSC History</string>
+
+    <string name="lang_same">Same</string>
+    <string name="lang_english">English</string>
+    <string name="lang_marathi">Marathi</string>
+    <string name="lang_hindi">Hindi</string>
+</resources>
